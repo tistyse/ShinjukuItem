@@ -14,6 +14,7 @@ local objects = {
     {Name = "Nambu", Label = "Nambu", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Bokken", Label = "Bokken", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Bottle", Label = "Bottle", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Katana", Label = "Katana", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "P9", Label = "P9", Color = Color3.new(0, 1, 1)},                     -- Cyan
     {Name = "Howa", Label = "Howa", Color = Color3.new(1, 0.5, 0)},              -- Orange
 }
