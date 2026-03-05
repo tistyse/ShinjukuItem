@@ -12,11 +12,27 @@ local objects = {
     {Name = "Knife", Label = "Knife", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Molotov", Label = "Molotov", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Nambu", Label = "Nambu", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Brick", Label = "Brick", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Bokken", Label = "Bokken", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Bottle", Label = "Bottle", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "Katana", Label = "Katana", Color = Color3.new(1, 0, 1)},        -- Magenta
     {Name = "P9", Label = "P9", Color = Color3.new(0, 1, 1)},                     -- Cyan
     {Name = "Howa", Label = "Howa", Color = Color3.new(1, 0.5, 0)},              -- Orange
+--dropped
+    {Name = "Fireaxe_dropped", Label = "Fireaxe", Color = Color3.new(1, 0, 0)},         -- Red
+    {Name = "Sledgehammer_dropped", Label = "Sledgehammer", Color = Color3.new(0, 1, 0)}, -- Green
+    {Name = "MP5_dropped", Label = "MP5", Color = Color3.new(1, 1, 0)},                  -- Yellow
+    {Name = "Mossberg_dropped", Label = "Mossberg", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Tanto_dropped", Label = "Tanto", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Knife_dropped", Label = "Knife", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Molotov_dropped", Label = "Molotov", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Nambu_dropped", Label = "Nambu", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Brick_dropped", Label = "Brick", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Bokken_dropped", Label = "Bokken", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Bottle_dropped", Label = "Bottle", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "Katana_dropped", Label = "Katana", Color = Color3.new(1, 0, 1)},        -- Magenta
+    {Name = "P9_dropped", Label = "P9", Color = Color3.new(0, 1, 1)},                     -- Cyan
+    {Name = "Howa_dropped", Label = "Howa", Color = Color3.new(1, 0.5, 0)},              -- Orange
 }
 
 local espStates = {}
